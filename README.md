@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hs809
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End
+- 🌱 I’m currently learning Full Stack Roadmap
 - 💞️ I’m looking to collaborate on Front End technology
 - 📫 How to reach me hiteshpal.8097@gmail.com
 
